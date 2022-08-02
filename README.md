@@ -7,6 +7,6 @@
 
 ### Steps
 - Downloed the roblox file
-- Open it in studio
+- Open it with studio
 - Then you can veiw scripts, modify it, ect.
 
