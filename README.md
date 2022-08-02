@@ -1,7 +1,9 @@
 ## rbxUltCoreTutorial
 # The main project file for my core tutorial!
 
-Youtube Playlist Link: https://www.youtube.com/watch?v=Ti6kygHxmmY&list=PLQp9RWg70YWUj6XikqZpZwiaXEPx4YYFu
+### Info:
+- I update this repo when I upload another part the the series
+- Youtube Playlist Link: https://www.youtube.com/watch?v=Ti6kygHxmmY&list=PLQp9RWg70YWUj6XikqZpZwiaXEPx4YYFu
 
 ### Steps
 - Downloed the roblox file
